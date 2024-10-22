@@ -8,6 +8,6 @@ usage:
     $ python perfect.py -i <input.pdf> [-o <output.pdf>] [-p <page-size>] [-s <scale>]
 ```
 
-    where page-size is LETTER or A4, and scale is a number between 0 and 1
+where page-size is LETTER or A4, and scale is a number between 0 and 1
 
-    only the input.pdf is required, others will default to default values
+only the input.pdf is required, others will default to default values
