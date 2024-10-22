@@ -5,7 +5,7 @@ perfect.py takes a standard pdf and formats it as a booklet, such that you can c
 
 usage:
 ``` 
-    $ python perfect.py -i <input.pdf> [-o <output.pdf>] [-p <page-size>] [-s <scale>]
+$ python perfect.py -i <input.pdf> [-o <output.pdf>] [-p <page-size>] [-s <scale>]
 ```
 
 where page-size is LETTER or A4, and scale is a number between 0 and 1
