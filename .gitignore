@@ -1,4 +1,15 @@
 !*
 
+# macOS
 .DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+
+# pybind
 .archive
