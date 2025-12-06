@@ -1,6 +1,6 @@
 # pybind - PDF Manipulation Tools
 
-A collection of command-line tools for PDF manipulation including booklet creation, text cleaning with layout preservation, and page resizing.
+Command-line tools for book binders
 
 ## Features
 
@@ -15,7 +15,7 @@ A collection of command-line tools for PDF manipulation including booklet creati
 ```bash
 git clone <repository-url>
 cd pybind
-uv sync
+uv tool install . -e
 ```
 
 ### Using pip
